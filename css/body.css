@@ -1,0 +1,79 @@
+#gimage {
+	background:url(/img/gradientsml.png) no-repeat;
+	position: fixed;
+	z-index: -1;
+	width: 100vw;
+	height: 100vh;
+}
+
+.fullpage {
+	padding-top: 78px;
+	height: calc(100vh - 78px);
+}
+
+.bodycontent {
+	background-color: transparent;
+	margin: auto;
+	max-width: 900px;
+}
+
+#maintitle {
+	font-size: 64px;
+	margin-top:0px;
+	margin-bottom: 12px;
+}
+
+#subtitle {
+	margin-top: 12px;
+	font-size: 22px;
+}
+
+#subsubtitle {
+	font-size:16px;
+}
+
+.pb15vh {
+	padding-bottom: 15vh;
+}
+
+.firstpage {
+	height: calc(100vh - 156px);
+	margin: 0px;
+	padding: 0px;
+}
+
+.title {
+	height:auto;
+	text-align: center;
+	position: relative;
+    	top: calc(45% - 95px);
+
+}
+
+.contentBox {
+	text-align: left;
+	margin: 0;
+}
+
+h2 {
+	border-bottom: 1px grey solid;
+	margin: 0px 0px 16px 0px;
+	padding: 0px 0px 8px 0px;
+	height:auto;
+}
+
+.divwhitespace78 {
+	height: 78px;
+}
+
+.portfolioentry {
+	height: 24px;
+	border: 1px solid white;
+	border-radius: 4px;
+	overflow: hidden;
+
+}
+
+div.portfolioentry h4 {
+	margin: 4px;
+}
