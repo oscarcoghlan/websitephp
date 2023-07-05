@@ -77,3 +77,40 @@ h2 {
 div.portfolioentry h4 {
 	margin: 4px;
 }
+
+.rectangle {
+	height: 180px;
+	width: 2px;
+	background-color: #cecece;
+	position: fixed;
+	right: 100px;
+	bottom: 0px;
+}
+
+
+.githubicon {
+	height: 40px;
+	width: 40px;
+	color: #cecece;
+	position: fixed;
+	right: 80px;
+	bottom: 60px;
+
+}
+
+.githubicon:hover {
+	filter: brightness(0) saturate(100%) invert(86%) sepia(3%) saturate(3178%) hue-rotate(314deg) brightness(100%) contrast(101%);
+}
+.linkedinicon {
+	height: 38px;
+	width: 38px;
+	color: #cecece;
+	position: fixed;
+	right: 141px;
+	bottom: 61px;
+
+}
+
+.linkedinicon:hover {
+	filter: brightness(0) saturate(100%) invert(86%) sepia(3%) saturate(3178%) hue-rotate(314deg) brightness(100%) contrast(101%);
+}

@@ -2,7 +2,7 @@
 		<div class="firstpage">
 			<div class="title">
 				<p id="maintitle">Oscar Coghlan</p>
-				<p id="subsubtitle">Software engineering student with a passion for coding</p>
+				<p id="subsubtitle">Software engineering student with a passion for learning</p>
 				<a href="#About" class="buttonStyle">learn more</a>
 				<!--<p class="pb15vh"> </p>-->
 			</div>
@@ -10,12 +10,27 @@
 	<div class="divwhitespace78" id="About"> &nbsp; </div>
 		<span class="contentBox">
 			<h2>About Me:</h2>
-			Hi! I'm Oscar. I really love messing around with computers and creating cool things with them. My language of choice is C (C++ when I feel like it), and I have experience in Python, Java, rust, and C#. I am also well versed in web development, with experience in PHP, CSS, and JavaScript. <br/> <br/>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br/><br/> I’m currently open to job opportunities so please feel free to email or connect with me via LinkedIn.
+			<br/>
+(CHATGPT)
+I'm Oscar, a dedicated software engineering student focused on delivering innovative solutions. On this portfolio website, I share my skills, projects, and experiences.
+
+<br>
+<br>
+From an early age, I've been intrigued by the possibilities of software engineering. I find fulfillment in creating elegant and efficient solutions to complex challenges, combining creativity and problem-solving. As a student, I actively pursue opportunities for growth and contribution in this ever-evolving field.
+
+<br>
+<br>
+Currently pursuing a degree in software engineering, I have developed a strong foundation in programming languages, data structures, algorithms, and software design principles. Proficient in Java, Python, C++, C, C#, PHP, and JavaScript, I'm consistently curious about exploring new technologies and frameworks.
+
+<br>
+<br>
+Beyond academia, I thrive in collaborative environments, valuing effective communication and a positive impact. Approachable and enthusiastic, I appreciate diverse perspectives and eagerly contribute my own ideas. I am actively seeking meaningful opportunities to apply my skills, expand my expertise as a software engineer, and drive positive change.
+
+<br>
+<br>
+Thank you for visiting my portfolio website. Feel free to explore my projects and accomplishments. If you have any inquiries or collaboration proposals, please don't hesitate to reach out. I look forward to connecting with you!
 			<br/>
 			<br/>
-			<br/>
-			Some stuff
 			<div class="divwhitespace78" id="Projects"> &nbsp; </div>
 				<h2>My Work:</h2>
 				<h4><a href="https://github.com/OscarC17/cellular-automata">Cellular Automata</a></h4>

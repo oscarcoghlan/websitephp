@@ -10,6 +10,7 @@ foreach(array_diff(scandir($BASE_PATH . "js/"), array('..', '.')) as &$value) {
 }
 echo("<title>" . $TITLE . "</title>");
 ?>
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400" rel="stylesheet">
 		<link rel="icon" href="/img/favicon.ico" />
 		<meta charset="UTF-8">
 		<meta name="keywords" content="Oscar Coghlan, Intern, Software Development, Student, Looking for work, University of Canberra, UC, Oscar, Coghlan">
