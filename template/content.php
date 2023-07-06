@@ -19,17 +19,12 @@
 
 		<br>
 		<br>
-		I am currently pursuing a degree in software engineering, and have developed a strong foundation in programming languages, data structures, algorithms, and software design principles. Proficient in Java, Python, C++, C, C#, PHP, and JavaScript, I'm consistently curious about exploring new technologies and frameworks.
+		I am currently completing a degree in software engineering, and have developed a strong foundation in programming languages, data structures, algorithms, and software design principles. I have extended many classes with Java, wrestled with the c++ standard library, and returned back to the basics with c. I've dipped my toes into .NET, and I've learnt how to express myself on the internet with PHP. I'm consistently curious about exploring new and old technologies.
 
 		<br>
 		<br>
 		Beyond academia, I thrive in collaborative environments, valuing effective communication and a positive impact. Approachable and enthusiastic, I appreciate diverse perspectives and eagerly contribute my own ideas. I am actively seeking meaningful opportunities to apply my skills, expand my expertise as a software engineer.
 
-		<br>
-		<br>
-		Thank you for visiting my portfolio website. Feel free to explore my projects and accomplishments. If you have any inquiries or collaboration proposals, please don't hesitate to reach out via email at <a href=mailto:oscar.coghlan@gmail.com><u>oscar.coghlan@gmail.com</u></a>. I look forward to hearing from you.
-		<br/>
-		<br/>
 		<div class="divwhitespace78" id="Projects"> &nbsp; </div>
 		<div class="portfolioentry">
 			<h2 class="h2title">Projects:</h2>
@@ -63,7 +58,7 @@
 				Your browser does not support mp4.
 			</video>
 			<h3><a href="https://github.com/oscarcoghlan/Java-snake">Java-snake</a></h3>
-			<p>Hugely popular for causual play, the early computer game 'snake' can be considered a veritable behemoth of a social phenomenon. Java is another behemoth of our culture, and it's easy to see why. Programming in Java was a suprisingly pleasant experience - I still love c++ though.</p>
+			<p>Hugely popular for casual play, the early computer game 'snake' can be considered a veritable behemoth of a social phenomenon. Java is another behemoth of our culture, and it's easy to see why. Programming in Java was a suprisingly pleasant experience.</p>
 			<p>
 				<a href="https://github.com/oscarcoghlan/Java-snake">&nbsp; > &nbsp; View project on GitHub</a> <br> <br>
 				<a href="/res/Java-snake.jar">&nbsp; > &nbsp; Download executable .jar file</a>
@@ -72,7 +67,7 @@
 		<div class="divwhitespace78" id="Contact"> &nbsp; </div>
 		<h2 class="h2title">Contact Me:</h2>
 		<p>
-		Thank you for visiting my portfolio! If you have any inquiries or would like to connect with me, please feel free to reach out through any of the following channels:
+		Thank you for visiting my site. If you have any inquiries or collaboration proposals, please don't hesitate to reach out via the channels listed below. I look forward to hearing from you.
 		<br>
 		<ul>
 			<li><u><a href="mailto:oscar.coghlan@gmail.com">Email</a></u><br></li>

@@ -1,5 +1,5 @@
 <nav class="Navbar">
-	<a href="/">Home</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="/pages/blog.php">Blog</a>
+	<a href="/">Home</a><span class="spacer"></span><a href="/pages/blog.php">Blog</a>
 	<span class="RightAlign">
 		<span class="pagelinks">
 <?php 
