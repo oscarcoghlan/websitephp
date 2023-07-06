@@ -57,10 +57,12 @@
 }
 
 h2 {
-	border-bottom: 1px grey solid;
+	border-bottom: 1px #333333 solid;
 	margin: 0px 0px 16px 0px;
 	padding: 0px 0px 8px 0px;
 	height:auto;
+	display:inline-block;
+	width: 100%;
 }
 
 .divwhitespace78 {
@@ -73,24 +75,21 @@ h2 {
 
 div.portfolioentry h3 {
 	margin: 22px;
-	width: 40%;
+	width: calc(100% - 338px);
 	display: inline-block;
 
 }
 
 div.portfolioentry p {
 	margin: 22px;
-	width: calc(70% - 66px);
+	width: calc(100% - 338px);
 	display: inline-block;
 	margin-top: 0px;
 
 }
-div.portfolioentry span {
-	margin: 22px;
-	width: calc(70% - 66px);
-	display: inline-block;
-	margin-top: 0px;
 
+div.portfolioentry video {
+	border: solid grey 1px;
 }
 
 .rectangle {
@@ -134,6 +133,7 @@ div.portfolioentry span {
 
 .portfolioimage {
 	width: 30%;
+	min-width: 270px;
 	height: auto;
 	float: right;
 	margin-top: 22px;
@@ -164,7 +164,16 @@ div.portfolioentry span {
   }
 }
 
-@media (max-width: 734px) {
+.collapsingtext {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+
+@media (max-width: 793px) {
+	.collapsingtext {
+		display: none;
+	}
 	.portfolioimage {
 		display:none;
 	}
@@ -183,6 +192,5 @@ div.portfolioentry span {
 		margin-left: 0px;
 		margin-right: 0px;
 		width: 100%;
-		text-align: center;
 	}
 }
