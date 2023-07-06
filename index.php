@@ -1,5 +1,5 @@
 <?php
-$TITLE = "Home";
+$TITLE = "Portfolio - Oscar Coghlan";
 $NAVBARLINKS = "/template/anavhome.php";
 $BASE_PATH = '/srv/http/';
 include($BASE_PATH."template/top.php");

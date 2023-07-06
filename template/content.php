@@ -32,9 +32,18 @@ Thank you for visiting my portfolio website. Feel free to explore my projects an
 			<br/>
 			<br/>
 			<div class="divwhitespace78" id="Projects"> &nbsp; </div>
-				<h2>My Work:</h2>
-				<h4><a href="https://github.com/OscarC17/cellular-automata">Cellular Automata</a></h4>
+			<div class="portfolioentry">
+				<h2>Projects:</h2>
+				<img class="portfolioimage" src="/img/htree.png" alt="Image of coways game of life generation using the H-tree rule set">
+				<h3><a href="https://github.com/oscarcoghlan/automata-gl">automata-gl</a></h3>
+				<p>Conway's Game of Life is a classic cellular automaton that exhibits fascinating emergent behavior. In this coding project, I have created a simulation of Conway's Game of Life using C++ for calculation and OpenGL for rendering the world.</p>
+				<span>
+					<a href="https://github.com/oscarcoghlan/automata-gl">&nbsp; > &nbsp; View project on GitHub</a> <br> <br>
+					<a href="/res/automata-gl.exe">&nbsp; > &nbsp; Download standalone Windows PE binary</a>
+				</span>
+<br><br><br><br>
 
+</div>
 			</div>
 		</span>
 	</div>

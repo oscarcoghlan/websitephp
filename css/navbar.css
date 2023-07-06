@@ -30,5 +30,8 @@ a:hover {
 	color: #ffcccc;
 }
 
-
-
+@media (max-width: 734px) {
+	.pagelinks {
+		display: none;
+	}
+}
