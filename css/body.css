@@ -65,6 +65,10 @@ h2 {
 	width: 100%;
 }
 
+.h2title {
+	border-bottom: 1px grey solid;
+}	
+
 .divwhitespace78 {
 	height: 78px;
 }
