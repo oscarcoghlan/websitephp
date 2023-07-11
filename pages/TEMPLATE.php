@@ -6,13 +6,11 @@ include($BASE_PATH."template/navbar.php");
 include($BASE_PATH."template/body.php");
 ?>
 <div class="bodycontent">
+	<div class=divwhitespace78></div>
 	<span class="contentbox">
 
 
 	</span>
 </div>
-</div>
-</div>
-</body>
-</html>
+<?php include($BASE_PATH."template/end.php"); ?>
 

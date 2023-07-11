@@ -6,6 +6,7 @@ include($BASE_PATH."template/navbar.php");
 include($BASE_PATH."template/body.php");
 ?>
 <div class="bodycontent">
+	<div class=divwhitespace78></div>
 	<span class="contentbox">
 		<h2 class="h2title">automata-gl</h2>
 		<p>
@@ -58,8 +59,4 @@ Have a look at some examples of the program running below.
 
 	</span>
 </div>
-</div>
-</div>
-</body>
-</html>
-
+<?php include($BASE_PATH."template/end.php"); ?>

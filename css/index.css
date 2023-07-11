@@ -10,9 +10,9 @@ body {
   font-family: Montserrat, 'Courier New', monospace;
   font-size: 18px;
   background-color: #000000;
-	background-image: url("../img/code.png");
+	background-image: url("../img/codesml.png");
 	background-repeat: no-repeat, no-repeat;
-	background-size: 100%;
+	background-size: 800px 4000px;
 	z-index: -2;
 }
 

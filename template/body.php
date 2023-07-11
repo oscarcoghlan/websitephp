@@ -1,4 +1,3 @@
-<div class="fullpage">
 	<img id="gimage" src="/img/gradient.png" alt=""/>
 	<a href="https://github.com/oscarcoghlan/" target="_blank">
 		<img class="githubicon" src="/img/github-mark-white.svg" alt="clickable github icon, linking to my github profile">

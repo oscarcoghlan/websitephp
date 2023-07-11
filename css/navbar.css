@@ -4,7 +4,7 @@
 	top: 0px;
 	width: calc(100vw - 80px);
 	padding: 30px 40px;
-	background-color: #000000;
+	background-color: #050505;
 }
 
 .RightAlign {
@@ -16,8 +16,15 @@
 	height: 2ex;
 }
 
-a {
+.nounderline {
 	text-decoration:none;
+}
+
+.Navbar a {
+	text-decoration:none;
+}
+
+a {
 	color: #eeeeee;
 	-o-transition:color .15s linear;
 	-ms-transition:color .15s linear;
