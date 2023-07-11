@@ -36,7 +36,7 @@ include($BASE_PATH."template/body.php");
 		<div class="divwhitespace78" id="Projects"> &nbsp; </div>
 		<div class="portfolioentry">
 			<h2 class="h2title">Projects:</h2>
-			<video class="portfolioimage" controls loop>
+			<video class="portfolioimage" controls loop autoplay muted>
 				<source src="/media/golprev.mp4" type="video/mp4">
 				<p>Preview of maze cellular automata simulation</p>
 				Your browser does not support mp4.
@@ -48,7 +48,7 @@ include($BASE_PATH."template/body.php");
 			<a class="nounderline" href="/res/automata-gl.exe">&nbsp; > &nbsp; Download standalone Windows PE binary</a>
 			</p>
 			<h2>&nbsp;</h2>
-			<video class="portfolioimage" style="margin-right: 0px; margin-left:22px; float:left;" controls loop>
+			<video class="portfolioimage" style="margin-right: 0px; margin-left:22px; float:left;" controls loop autoplay muted>
 				<source src="/media/ballsprev.mp4" type="video/mp4">
 				<p>Preview of ball simulation</p>
 				Your browser does not support mp4.
@@ -60,7 +60,7 @@ include($BASE_PATH."template/body.php");
 			<a class="nounderline" href="/res/collisions-cpp.exe">&nbsp; > &nbsp; Download standalone Windows PE binary</a>
 			</p>
 			<h2>&nbsp;</h2>
-			<video class="portfolioimage" controls loop>
+			<video class="portfolioimage" controls loop autoplay muted>
 				<source src="/media/snakeprev.mp4" type="video/mp4">
 				<p>Preview of snake game</p>
 				Your browser does not support mp4.

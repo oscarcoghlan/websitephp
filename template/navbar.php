@@ -8,7 +8,7 @@ if (isset($NAVBARLINKS)) {
 }
 ?>
 		</span>
-		<a href="./oscarcresume.pdf">Résumé</a>
+		<a href="./res/OscarCResume2023_.pdf">Résumé</a>
 	</span>
 </nav>
 
