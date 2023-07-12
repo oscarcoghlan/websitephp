@@ -240,7 +240,7 @@ div.portfolioentry video {
     justify-content: flex-end;
     flex-grow: 2;
 	height: 40px;
-	background-color: #050505;
+	background-color: #000000;
 }
 
 .footeritems {
@@ -318,7 +318,7 @@ background-color: #000000;
 	top: 0px;
 	width: calc(100vw - 80px);
 	padding: 30px 40px;
-	background-color: #050505;
+	background-color: #000000;
 }
 
 .RightAlign {
