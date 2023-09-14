@@ -10,14 +10,13 @@ include($BASE_PATH."template/body.php");
 	<span class="contentbox">
 		<h2 class="h2title">collisions-cpp</h2>
 		<p>
-		I may not have created a perfect particle simulation, but it certainly looks kind of cool. The process of creation went kind of like this:<br><br>
 		1. Define the Particle Class:<br>
 		The particle class contains the velocity, position, and radius for use with the physics calculations; it also contains the edge count and relative vertex positions (in relation to the centre) of the particle for use with the renderer. The particle class also defines a function that updates it position, and a function that converts its local vertex co-ordinates into global vertex co-ordinates for use with OpenGL. I am sure that doing this conversion on the CPU is not very efficient, however doing it on the GPU is much harder.<br><br>
-		2. Make OpenGL work:<br>
-		Now this is a doozy that I won't explain, if you are interested then I highly reccomend <u><a href="https://opengl-tutorial.org" target="_blank">opengl-tutorial.org</a></u>. Or read a book on it.<br><br>
+		2. OpenGL:<br>
+		If you are interested then I highly reccomend <u><a href="https://opengl-tutorial.org" target="_blank">opengl-tutorial.org</a></u>. It's what I used.<br><br>
 		3. Implement Particle Simulation: <br>
-		This entails applying appropriate forces such as gravity to the particles to mimic motion and incorporating collision detection logic and collision resolution logic to create a convincing effect. This was the hardest part. <br><br>
-		Oh and by the way if you downloaded the windows binary or built it from source, the key to add particles is 'a'. <br>
+		This entails applying appropriate forces such as gravity to the particles to mimic motion and incorporating collision detection logic and collision resolution logic to create a convincing effect. <br><br>
+	If you downloaded the windows binary or built it from source, the key to add particles is 'a'. <br>
 		<ul>
 			<li>
 				<a href="https://github.com/oscarcoghlan/collisions-cpp"> &nbsp; View project on GitHub</a> <br> <br>

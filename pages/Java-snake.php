@@ -10,7 +10,7 @@ include($BASE_PATH."template/body.php");
 	<span class="contentbox">
 		<h2 class="h2title">Java-snake</h2>
 		<p>
-		In my opinion, snake is a canonical 'student coding project'. This is for a couple reasons, one being that it's universally understandable - that is, everyone, maybe excluding a couple grandparents, can wrap their head around the gameplay. Another reason is the simplicity, I've found that - if you do it simply, then snake is an extremely simple and easy thing to code. Most of the complexity comes with rendering the whole thing, something that java handles nicely. There really isn't much to talk about when it comes to snake, look upon my greatness and despair, I guess.<br>
+		In my opinion, snake is a canonical 'student coding project'. This is for a couple reasons, one being that it's universally understandable - that is, everyone can wrap their head around the gameplay. Another reason is the simplicity, I've found that - if you do it simply, then snake is an extremely simple and easy thing to code. Most of the complexity comes with rendering the whole thing, something that java handles nicely. There really isn't much to talk about when it comes to snake, look upon my works and despair, I guess.<br>
 		<ul>
 			<li>
 				<a href="https://github.com/oscarcoghlan/Java-snake"> &nbsp; View project on GitHub</a> <br> <br>

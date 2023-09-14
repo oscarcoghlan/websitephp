@@ -42,7 +42,7 @@ include($BASE_PATH."template/body.php");
 				Your browser does not support mp4.
 			</video>
 			<h3><a href="/pages/automata-gl.php">automata-gl</a></h3>
-			<p>Cellular automata <span class="collapsingtext">(video shows the "maze" ruleset)</span> are a beautiful example of the ways that simple rulesets can create complex results. This project helped me wrap my head around c concepts such as pointers and arrays, and was a neat foray into OpenGL programming. <u><a href="/pages/automata-gl.php">Read more.</a></u></p>
+			<p>Cellular automata <span class="collapsingtext">(video shows the "maze" ruleset)</span> are a beautiful example of the ways that simple rulesets can create complex results. This project helped me understand c concepts such as pointers and arrays, and was a good introduction into OpenGL programming. <u><a href="/pages/automata-gl.php">Read more.</a></u></p>
 			<p>
 			<a class="nounderline" href="https://github.com/oscarcoghlan/automata-gl">&nbsp; > &nbsp; View project on GitHub</a> <br> <br>
 			<a class="nounderline" href="/res/automata-gl.exe">&nbsp; > &nbsp; Download standalone Windows PE binary</a>
@@ -54,7 +54,7 @@ include($BASE_PATH."template/body.php");
 				Your browser does not support mp4.
 			</video>
 			<h3 style="float:right;"><a href="/pages/collisions-cpp.php">collisions-cpp</a></h3>
-			<p style="float:right; text-align:left">Simulations are, frankly, very cool, one of these cool simulations is the simulation of collisions between particles. For now it's just circles, a fully fleged physics engine is, for now, out of my reach. This project taught me about various c++ std library functions such as vectors and objects. <u><a href="/pages/collisions-cpp.php">Read more.</a></u></p>
+			<p style="float:right; text-align:left">For now it's just circles, a fully fleged physics engine is, for now, out of my reach. This particle simulation holds a special place in my heart, because even this was quite difficult. This project taught me about various c++ std library functions such as vectors and objects. <u><a href="/pages/collisions-cpp.php">Read more.</a></u></p>
 			<p>
 			<a class="nounderline" href="https://github.com/oscarcoghlan/collisions-cpp">&nbsp; > &nbsp; View project on GitHub</a> <br> <br>
 			<a class="nounderline" href="/res/collisions-cpp.exe">&nbsp; > &nbsp; Download standalone Windows PE binary</a>
